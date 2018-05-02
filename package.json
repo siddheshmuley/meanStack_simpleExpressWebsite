@@ -1,0 +1,25 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "Simple website with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siddheshmuley/meanStack_simpleExpressWebsite.git"
+  },
+  "author": "Siddhesh Muley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddheshmuley/meanStack_simpleExpressWebsite/issues"
+  },
+  "homepage": "https://github.com/siddheshmuley/meanStack_simpleExpressWebsite#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "pug": "*",
+    "nodemailer": "*"
+  }
+}
